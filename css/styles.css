@@ -54,7 +54,7 @@ h3{
 }
 
 .bottom-cloud{
-  position: relative;
+  position: absolute;
   bottom: 300px;
   left: 500px;
   opacity: .33;
